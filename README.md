@@ -1,6 +1,6 @@
 ### Blog
 ##Author
-By uwitonze Queen
+By Patience Cyuzuzo
 
 ##Description
 This is a personal blogging website where you can create and share your opinions and other users can read and comment on them.There is also provision for a subscription service in order to receive updates whenever a new blog is posted.
